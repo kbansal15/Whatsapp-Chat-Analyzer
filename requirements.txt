@@ -1,4 +1,4 @@
-acstreamlit
+streamlit
 matplotlib
 seaborn
 urlextract
